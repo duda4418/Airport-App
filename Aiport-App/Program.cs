@@ -21,6 +21,15 @@ namespace Aiport_App
 
             Console.WriteLine();
 
+            Passenger p1 = new Passenger("David", "12345", "112", "14C");
+            Passenger p2 = new Passenger("Rebeca", "54321", "112", "14D");
+
+            Console.WriteLine("PASSANGERS: ");
+            Console.WriteLine(p1.DisplayPassenger());
+            Console.WriteLine(p2.DisplayPassenger());
+
+            Console.WriteLine();
+
         }
     }
 }
