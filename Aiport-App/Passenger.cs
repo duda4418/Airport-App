@@ -13,6 +13,11 @@ namespace Airport_App
         public string flightNumber { get; set; }
         public string seatNumber { get; set; }
 
+        public Passenger()
+        {
+
+        }
+
         public Passenger(string _name, string _passportNumber, string _flightNumber, string _seatNumber)
         {
             name = _name;

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D8AD5594-AB7A-4290-9742-A649CC626A33}</ProjectGuid>
+    <ProjectGuid>{80871BD5-24D6-4EBE-9FA7-8F42F634A8B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Aiport_App</RootNamespace>
-    <AssemblyName>Aiport-App</AssemblyName>
+    <RootNamespace>AdministrareMemorie</RootNamespace>
+    <AssemblyName>AdministrareMemorie</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,13 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdministrareMemorie.cs" />
-    <Compile Include="Passenger.cs" />
-    <Compile Include="Flight.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Flights\Flight.csproj">
+      <Project>{c2eb5562-165d-4664-a192-dd32cb7a0cc1}</Project>
+      <Name>Flight</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

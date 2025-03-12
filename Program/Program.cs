@@ -1,5 +1,4 @@
 ﻿
-using Airport_App;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +9,7 @@ namespace Aiport_App
 {
     class Program
     {
-            static int nrFlights = 0;
+        static int nrFlights = 0;
 
         static void Main(string[] args)
         {
@@ -84,8 +83,8 @@ namespace Aiport_App
             Console.ReadKey();
         }
 
-             public static Flight CitireZbor()
-            {
+        public static Flight CitireZbor()
+        {
             Console.WriteLine("Introduceti tipul zborului");
             string type = Console.ReadLine();
 
@@ -112,8 +111,8 @@ namespace Aiport_App
                     flight.flightId,
                     flight.flightType ?? " NECUNOSCUT ",
                     flight.city ?? " NECUNOSCUT ",
-                    flight.time ,
-                    flight.gate ,
+                    flight.time,
+                    flight.gate,
                     flight.status ?? "NECUNOSCUT");
 
             Console.WriteLine(flightInfo);
@@ -130,6 +129,6 @@ namespace Aiport_App
         }
     }
 
-    }
+}
 
 
