@@ -43,16 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdministrareMemorie.cs" />
+    <Compile Include="AdministrareMemorieFlight.cs" />
+    <Compile Include="AdministrareMemoriePassenger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Flights\Flight.csproj">
+    <ProjectReference Include="..\Flights\LibrarieModele.csproj">
       <Project>{c2eb5562-165d-4664-a192-dd32cb7a0cc1}</Project>
-      <Name>Flight</Name>
+      <Name>LibrarieModele</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

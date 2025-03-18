@@ -44,5 +44,15 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdministrareMemorie\AdministrareMemorie.csproj">
+      <Project>{80871bd5-24d6-4ebe-9fa7-8f42f634a8b9}</Project>
+      <Name>AdministrareMemorie</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Flights\LibrarieModele.csproj">
+      <Project>{c2eb5562-165d-4664-a192-dd32cb7a0cc1}</Project>
+      <Name>LibrarieModele</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

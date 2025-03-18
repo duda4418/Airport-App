@@ -2,11 +2,12 @@
 
 namespace Airport_App
 {
-    class Flight
+    public class Flight
     {
         public string city { get; set; }
         public double time { get; set; }
-        public int gate { get; set; }
+        public int gate { get; set; 
+        }
         public string status { get; set; }
         public string flightType { get; set; }
         public int flightId { get; set; }

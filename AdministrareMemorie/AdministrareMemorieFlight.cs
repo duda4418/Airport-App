@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aiport_App
+namespace Airport_App
 {
-    class AdministrareMemorie
+    public class AdministrareMemorieFlight
     {
         private const int NR_MAX_PASSENGER = 500;
         private const int NR_MAX_FLIGHTS = 50;
@@ -15,7 +15,7 @@ namespace Aiport_App
         private Flight[] flights;
         private int nrFlights;
 
-        public AdministrareMemorie()
+        public AdministrareMemorieFlight()
         {
             flights = new Flight[NR_MAX_FLIGHTS];
             nrFlights = 0;

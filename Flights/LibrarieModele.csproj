@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{88F5D06B-6578-4461-B89E-4E148A9377ED}</ProjectGuid>
+    <ProjectGuid>{C2EB5562-165D-4664-A192-DD32CB7A0CC1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Passenger</RootNamespace>
-    <AssemblyName>Passenger</AssemblyName>
+    <RootNamespace>Flights</RootNamespace>
+    <AssemblyName>Flights</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Flight.cs" />
     <Compile Include="Passenger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Program\Program.csproj">
-      <Project>{f3b8e9fd-c752-4a1c-8fcf-0e0138e68206}</Project>
-      <Name>Program</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

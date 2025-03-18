@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Airport_App
 {
-    class Passenger
+    public class Passenger
     {
         public string name { get; set; }
         public string passportNumber { get; set; }

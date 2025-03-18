@@ -1,11 +1,13 @@
 ﻿
+using AdministrareMemorie;
+using Airport_App;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aiport_App
+namespace Airport_App
 {
     class Program
     {
@@ -14,7 +16,7 @@ namespace Aiport_App
         static void Main(string[] args)
         {
 
-            AdministrareMemorie adminFlights = new AdministrareMemorie();
+            AdministrareMemorieFlight adminFlights = new AdministrareMemorieFlight();
             Flight newFlight = new Flight();
 
             string optiune;
@@ -81,6 +83,11 @@ namespace Aiport_App
             } while (optiune.ToUpper() != "X");
 
             Console.ReadKey();
+
+            AdministrareMemoriePassenger adminPassenger = new AdministrareMemoriePassenger();
+
+            Console.WriteLine("Vector scara: ");
+            adminPassenger.ProcessWords("test.txt");
         }
 
         public static Flight CitireZbor()
