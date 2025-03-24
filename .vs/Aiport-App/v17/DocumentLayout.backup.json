@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dudad\\source\\repos\\Airport-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80871BD5-24D6-4EBE-9FA7-8F42F634A8B9}|AdministrareMemorie\\AdministrareMemorie.csproj|c:\\users\\dudad\\source\\repos\\airport-app\\administrarememorie\\administrarememoriepassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80871BD5-24D6-4EBE-9FA7-8F42F634A8B9}|AdministrareMemorie\\AdministrareMemorie.csproj|solutionrelative:administrarememorie\\administrarememoriepassenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EB5562-165D-4664-A192-DD32CB7A0CC1}|Flights\\LibrarieModele.csproj|C:\\Users\\dudad\\source\\repos\\Airport-App\\flights\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EB5562-165D-4664-A192-DD32CB7A0CC1}|Flights\\LibrarieModele.csproj|solutionrelative:flights\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B8E9FD-C752-4A1C-8FCF-0E0138E68206}|Program\\Program.csproj|C:\\Users\\dudad\\source\\repos\\Airport-App\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B8E9FD-C752-4A1C-8FCF-0E0138E68206}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80871BD5-24D6-4EBE-9FA7-8F42F634A8B9}|AdministrareMemorie\\AdministrareMemorie.csproj|c:\\users\\dudad\\source\\repos\\airport-app\\administrarememorie\\administrarememorieflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80871BD5-24D6-4EBE-9FA7-8F42F634A8B9}|AdministrareMemorie\\AdministrareMemorie.csproj|solutionrelative:administrarememorie\\administrarememorieflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EB5562-165D-4664-A192-DD32CB7A0CC1}|Flights\\LibrarieModele.csproj|c:\\users\\dudad\\source\\repos\\airport-app\\flights\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EB5562-165D-4664-A192-DD32CB7A0CC1}|Flights\\LibrarieModele.csproj|solutionrelative:flights\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2EB5562-165D-4664-A192-DD32CB7A0CC1}|Flights\\Flight.csproj|C:\\Users\\dudad\\source\\repos\\Airport-App\\flights\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2EB5562-165D-4664-A192-DD32CB7A0CC1}|Flights\\Flight.csproj|solutionrelative:flights\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministrareMemoriePassenger.cs",
+              "DocumentMoniker": "C:\\Users\\dudad\\source\\repos\\Airport-App\\AdministrareMemorie\\AdministrareMemoriePassenger.cs",
+              "RelativeDocumentMoniker": "AdministrareMemorie\\AdministrareMemoriePassenger.cs",
+              "ToolTip": "C:\\Users\\dudad\\source\\repos\\Airport-App\\AdministrareMemorie\\AdministrareMemoriePassenger.cs",
+              "RelativeToolTip": "AdministrareMemorie\\AdministrareMemoriePassenger.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:21:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Flights\\Flight.cs",
+              "RelativeDocumentMoniker": "Flights\\Flight.cs",
+              "ToolTip": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Flights\\Flight.cs",
+              "RelativeToolTip": "Flights\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:11:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Flights\\Passenger.cs",
+              "RelativeDocumentMoniker": "Flights\\Passenger.cs",
+              "ToolTip": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Flights\\Passenger.cs",
+              "RelativeToolTip": "Flights\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:11:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwFgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:38:28.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Flights\\Flight.cs",
+              "RelativeDocumentMoniker": "Flights\\Flight.cs",
+              "ToolTip": "C:\\Users\\dudad\\source\\repos\\Airport-App\\Flights\\Flight.cs",
+              "RelativeToolTip": "Flights\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:36:06.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministrareMemorieFlight.cs",
+              "DocumentMoniker": "C:\\Users\\dudad\\source\\repos\\Airport-App\\AdministrareMemorie\\AdministrareMemorieFlight.cs",
+              "RelativeDocumentMoniker": "AdministrareMemorie\\AdministrareMemorieFlight.cs",
+              "ToolTip": "C:\\Users\\dudad\\source\\repos\\Airport-App\\AdministrareMemorie\\AdministrareMemorieFlight.cs",
+              "RelativeToolTip": "AdministrareMemorie\\AdministrareMemorieFlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:35:54.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
