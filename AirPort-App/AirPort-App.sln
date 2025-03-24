@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirPort-App", "AirPort-App\AirPort-App.csproj", "{F6571036-CC89-4CA1-9326-301BBC98E742}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministrareMemorie", "AdministrareMemorie\AdministrareMemorie.csproj", "{265EF5F0-17CB-4E26-857D-60E185706144}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Librarie_Modele", "Librarie_Modele\Librarie_Modele.csproj", "{FFE40CCD-4B39-4B95-8CA5-771A8989CD1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI_Airport-App", "UI_Airport-App\UI_Airport-App.csproj", "{DA0A6124-2BF6-4D9B-B500-21DF801CC335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FFE40CCD-4B39-4B95-8CA5-771A8989CD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFE40CCD-4B39-4B95-8CA5-771A8989CD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFE40CCD-4B39-4B95-8CA5-771A8989CD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0A6124-2BF6-4D9B-B500-21DF801CC335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0A6124-2BF6-4D9B-B500-21DF801CC335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0A6124-2BF6-4D9B-B500-21DF801CC335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0A6124-2BF6-4D9B-B500-21DF801CC335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
